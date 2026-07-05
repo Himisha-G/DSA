@@ -27,8 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Himisha-G/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Himisha-G/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0136-single-number](https://github.com/Himisha-G/DSA/tree/master/0136-single-number) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Himisha-G/DSA/tree/master/0073-set-matrix-zeroes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Himisha-G/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
