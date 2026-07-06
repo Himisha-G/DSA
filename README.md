@@ -29,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Himisha-G/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himisha-G/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Himisha-G/DSA/tree/master/0136-single-number) |
+| [0733-flood-fill](https://github.com/Himisha-G/DSA/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Himisha-G/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0733-flood-fill](https://github.com/Himisha-G/DSA/tree/master/0733-flood-fill) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -41,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himisha-G/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Himisha-G/DSA/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Himisha-G/DSA/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
