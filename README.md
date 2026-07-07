@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Himisha-G/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Himisha-G/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Himisha-G/DSA/tree/master/0242-valid-anagram) |
+| [1447-simplified-fractions](https://github.com/Himisha-G/DSA/tree/master/1447-simplified-fractions) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Himisha-G/DSA/tree/master/0733-flood-fill) |
+## Math
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/Himisha-G/DSA/tree/master/1447-simplified-fractions) |
+## Number Theory
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/Himisha-G/DSA/tree/master/1447-simplified-fractions) |
 <!---LeetCode Topics End-->
