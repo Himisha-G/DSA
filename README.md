@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Himisha-G/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Himisha-G/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Himisha-G/DSA/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himisha-G/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Himisha-G/DSA/tree/master/0136-single-number) |
 | [0733-flood-fill](https://github.com/Himisha-G/DSA/tree/master/0733-flood-fill) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Himisha-G/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Himisha-G/DSA/tree/master/0136-single-number) |
 ## Dynamic Programming
 |  |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1447-simplified-fractions](https://github.com/Himisha-G/DSA/tree/master/1447-simplified-fractions) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Himisha-G/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
