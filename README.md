@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Himisha-G/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Himisha-G/DSA/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Himisha-G/DSA/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Himisha-G/DSA/tree/master/0242-valid-anagram) |
 | [1447-simplified-fractions](https://github.com/Himisha-G/DSA/tree/master/1447-simplified-fractions) |
 ## Hash Table
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himisha-G/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Himisha-G/DSA/tree/master/0131-palindrome-partitioning) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Himisha-G/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Himisha-G/DSA/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Himisha-G/DSA/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
