@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Himisha-G/DSA/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himisha-G/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Himisha-G/DSA/tree/master/0136-single-number) |
+| [0198-house-robber](https://github.com/Himisha-G/DSA/tree/master/0198-house-robber) |
 | [0496-next-greater-element-i](https://github.com/Himisha-G/DSA/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/Himisha-G/DSA/tree/master/0733-flood-fill) |
 | [2596-check-knight-tour-configuration](https://github.com/Himisha-G/DSA/tree/master/2596-check-knight-tour-configuration) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himisha-G/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Himisha-G/DSA/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/Himisha-G/DSA/tree/master/0198-house-robber) |
 ## Depth-First Search
 |  |
 | ------- |
