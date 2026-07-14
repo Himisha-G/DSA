@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Himisha-G/DSA/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himisha-G/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Himisha-G/DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Himisha-G/DSA/tree/master/0198-house-robber) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Himisha-G/DSA/tree/master/0062-unique-paths) |
 | [1447-simplified-fractions](https://github.com/Himisha-G/DSA/tree/master/1447-simplified-fractions) |
 ## Number Theory
 |  |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Himisha-G/DSA/tree/master/0206-reverse-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Himisha-G/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
