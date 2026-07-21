@@ -1,6 +1,6 @@
 class Solution {
 private:
-    int f(int i, int j, string s, string t,
+    int fi(int i, int j, string s, string t,
           vector<vector<int>> &dp) {
 
         if (j < 0) return 1;
@@ -11,11 +11,11 @@ private:
 
         if (s[i] == t[j]) {
             return dp[i][j] =
-                f(i - 1, j - 1, s, t, dp) +
-                f(i - 1, j, s, t, dp);
+                fi(i - 1, j - 1, s, t, dp) +
+                fi(i - 1, j, s, t, dp);
         }
 
-        return dp[i][j] = f(i - 1, j, s, t, dp);
+        return dp[i][j] = fi(i - 1, j, s, t, dp);
     }
 
 public:
@@ -25,6 +25,6 @@ public:
 
         vector<vector<int>> dp(n, vector<int>(m, -1));
 
-        return f(n - 1, m - 1, s, t, dp);
+        return fi(n - 1, m - 1, s, t, dp);
     }
 };
