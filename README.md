@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Himisha-G/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Himisha-G/DSA/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/Himisha-G/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Himisha-G/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Himisha-G/DSA/tree/master/0518-coin-change-ii) |
 | [0733-flood-fill](https://github.com/Himisha-G/DSA/tree/master/0733-flood-fill) |
 | [1331-rank-transform-of-an-array](https://github.com/Himisha-G/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Himisha-G/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/Himisha-G/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
 |  |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Himisha-G/DSA/tree/master/1025-divisor-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Himisha-G/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
