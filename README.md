@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Himisha-G/DSA/tree/master/0110-balanced-binary-tree) |
 | [0733-flood-fill](https://github.com/Himisha-G/DSA/tree/master/0733-flood-fill) |
 | [2596-check-knight-tour-configuration](https://github.com/Himisha-G/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -163,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Himisha-G/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Himisha-G/DSA/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Himisha-G/DSA/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
