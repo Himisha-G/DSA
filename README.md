@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Himisha-G/DSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Himisha-G/DSA/tree/master/0125-valid-palindrome) |
+| [2460-apply-operations-to-an-array](https://github.com/Himisha-G/DSA/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Himisha-G/DSA/tree/master/0733-flood-fill) |
 | [1331-rank-transform-of-an-array](https://github.com/Himisha-G/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Himisha-G/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2460-apply-operations-to-an-array](https://github.com/Himisha-G/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/Himisha-G/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Matrix
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2460-apply-operations-to-an-array](https://github.com/Himisha-G/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/Himisha-G/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Linked List
 |  |
