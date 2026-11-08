@@ -11,8 +11,7 @@ public:
             if(grid[i][j]==1){
                 row[i]++;
                 col[j]++;
-                cout<<"hey"<<endl;
-                cout<<i<<" "<<j<<endl;
+               
             }
         }
      }
