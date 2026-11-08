@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Himisha-G/DSA/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Himisha-G/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Himisha-G/DSA/tree/master/0733-flood-fill) |
+| [1267-count-servers-that-communicate](https://github.com/Himisha-G/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Himisha-G/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Himisha-G/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Himisha-G/DSA/tree/master/2460-apply-operations-to-an-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Himisha-G/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Himisha-G/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/Himisha-G/DSA/tree/master/0733-flood-fill) |
+| [1267-count-servers-that-communicate](https://github.com/Himisha-G/DSA/tree/master/1267-count-servers-that-communicate) |
 | [2596-check-knight-tour-configuration](https://github.com/Himisha-G/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Bit Manipulation
 |  |
@@ -99,12 +101,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Himisha-G/DSA/tree/master/0110-balanced-binary-tree) |
 | [0733-flood-fill](https://github.com/Himisha-G/DSA/tree/master/0733-flood-fill) |
+| [1267-count-servers-that-communicate](https://github.com/Himisha-G/DSA/tree/master/1267-count-servers-that-communicate) |
 | [2596-check-knight-tour-configuration](https://github.com/Himisha-G/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Himisha-G/DSA/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Himisha-G/DSA/tree/master/0733-flood-fill) |
+| [1267-count-servers-that-communicate](https://github.com/Himisha-G/DSA/tree/master/1267-count-servers-that-communicate) |
 | [2596-check-knight-tour-configuration](https://github.com/Himisha-G/DSA/tree/master/2596-check-knight-tour-configuration) |
 ## Math
 |  |
@@ -169,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Himisha-G/DSA/tree/master/1267-count-servers-that-communicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Himisha-G/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
@@ -178,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Himisha-G/DSA/tree/master/0110-balanced-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Himisha-G/DSA/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
